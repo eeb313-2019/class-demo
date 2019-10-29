@@ -6,6 +6,6 @@ output: pdf_document
 
 Hello!
 
-This is a file!
+This is an R Notebook.
 
-It contains file things.
+It contains code and text.
