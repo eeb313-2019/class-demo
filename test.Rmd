@@ -5,3 +5,7 @@ output: pdf_document
 ---
 
 Hello!
+
+This is an R Notebook.
+
+It contains code and text.
